@@ -1,3 +1,5 @@
+
+
 # Hi, I'm Gabriel Rodrigues <a href="https://emoji.gg/emoji/SurveyCorpsEmblem"><img src="https://emoji.gg/assets/emoji/SurveyCorpsEmblem.png" width="64px" height="64px" alt="SurveyCorpsEmblem"></a>
 
 
@@ -19,6 +21,12 @@ I am an enthusiast for the web development area, I am thirsty to learn several t
   <img align="center" alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="git" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="mongo" height="30" width="40"  src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+  <img align="center" alt="node" height="30" width="40"  src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/node/node.svg">
+  <img align="center" alt="ec2" height="30" width="40"  src="https://iconape.com/wp-content/png_logo_vector/aws-ec2.png">
+  <img align="center" alt="ec2" height="30" width="40"  src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/docker/docker.svg">
+  
+ 
+  
   
 </div>
 
