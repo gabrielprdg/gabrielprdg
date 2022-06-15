@@ -1,60 +1,26 @@
+<h1 align="center">Hi 👋, I'm Gabriel Rodrigues</h1>
+<h3 align="center">A passionate backend developer from Brazil. I am currently studying Information Systems at the State University of Minas Gerais and I also do other courses abroad.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielprod&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielprod" /> </p>
 
-# Hi, I'm Gabriel Rodrigues <a href="https://emoji.gg/emoji/SurveyCorpsEmblem"><img src="https://emoji.gg/assets/emoji/SurveyCorpsEmblem.png" width="64px" height="64px" alt="SurveyCorpsEmblem"></a>
+- 🔭 I’m currently working on [usefashionstorelook.com.br](https://usefashionstorelook.com.br/)
 
+- 🌱 I’m currently learning **ways to deploy the pm2 tool either on AWS or even on Digital Ocean**
 
-I am an enthusiast for the web development area, I am thirsty to learn several things to expand my knowledge even more, I am currently studying Information Systems at the State University of Minas Gerais and I also do other courses abroad.
+- 📫 How to reach me **gaperodrigues@gmail.com**
 
-### Abstract
-
-- 💻 Sofware Engineer Student.
-- :rocket: Technologies: JavaScript, Typescript, HTML, CSS, ReactJS, MySql, MongoDB and much more.
-
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-  
-  <img align="center" alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="git" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="mongo" height="30" width="40"  src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
-  <img align="center" alt="node" height="30" width="40"  src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/node/node.svg">
-  <img align="center" alt="ec2" height="30" width="40"  src="https://iconape.com/wp-content/png_logo_vector/aws-ec2.png">
-  <img align="center" alt="ec2" height="30" width="40"  src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/docker/docker.svg">
-  
- 
-  
-  
-</div>
-
-## Contact :iphone:
-
-<p align="center">
-    <a href="https://github.com/gabrielprod">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/gabrielprod">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:gabrielalemao12@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabrielalemao12@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/gabriel-rodrigues-aaa352207/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/gabriel-rodrigues-aaa352207/">
-    </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/gapero0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gapero0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabriel-rodrigues-aaa352207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-rodrigues-aaa352207" height="30" width="40" /></a>
+<a href="https://instagram.com/gabrielpr7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielpr7" height="30" width="40" /></a>
 </p>
 
-## Statics
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=gabrielprod&theme=react)
-![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprod&layout=compact&hide_border=true&langs_count=10&theme=react)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p align="center"> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielprod&show_icons=true&locale=en&layout=compact" alt="gabrielprod" /></p>
 
- ## Total visits :chart_with_upwards_trend: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/gabrielprod/count.svg" />
- </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielprod&show_icons=true&locale=en" alt="gabrielprod" /></p>
 
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielprod&" alt="gabrielprod" /></p>
