@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [usefashionstorelook.com.br](https://usefashionstorelook.com.br/)
 
-- 🌱 I’m currently learning **ways to deploy the pm2 tool either on AWS or even on Digital Ocean**
+- 🌱 I’m currently learning **Docker and Kubernetes**
 
 - 📫 How to reach me **gaperodrigues@gmail.com**
 
