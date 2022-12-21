@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [usefashionstorelook.com.br](https://usefashionstorelook.com.br/)
 
-- 🌱 I’m currently learning **Docker and Kubernetes**
+- 🌱 I’m currently learning **Microservices - node**
 
 - 📫 How to reach me **gaperodrigues@gmail.com**
 
