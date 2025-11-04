@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielprdg&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielprdg" /> </p>
 
-- 🔭 I’m currently working at L5 Networks
+- 🔭 I’m currently working at SEIDOR
 
 - 🌱 I’m currently learning **Microservices - node**
 
